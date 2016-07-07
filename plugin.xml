@@ -13,7 +13,7 @@
 	<issue>https://github.com/apla/me.apla.cordova.app-preferences/issues</issue>
 
 	<js-module src="www/apppreferences.js">
-		<clobbers target="plugins.appPreferences" />
+		<clobbers target="cordova.plugins.appPreferences" />
 	</js-module>
 	<js-module src="src/platform.js">
 	</js-module>
